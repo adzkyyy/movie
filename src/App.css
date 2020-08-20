@@ -13,7 +13,7 @@
   height: 80px;
   margin: auto;
 }
-.movie-button{
+.movie-button {
   font-size: 16px;
   padding: 8px;
   margin: 0px 10px 30px 10px;
@@ -29,4 +29,9 @@
   color: white;
   padding: 20px;
   cursor: pointer;
+}
+.root {
+  display: flex;
+  width: 100%;
+  justify-content: center;
 }

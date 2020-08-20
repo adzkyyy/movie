@@ -1,0 +1,45 @@
+.TabsWrapper {
+  display: flex;
+  padding: 5px 16px;
+  overflow-x: auto;
+  flex-wrap: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+.TabsWrapper::-webkit-scrollbar {
+  display: none;
+}
+.TabsIndicator {
+  background: #fe6d8e;
+  border-radius: 100px;
+  width: 50%;
+  height: 4px;
+  text-align: left;
+}
+.DivText {
+  padding: 5px;
+  text-align: left;
+  margin-right: 10px;
+  flex: 0 0 auto;
+}
+.DivText h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+
+  color: #12153d;
+}
+.DivTextoff {
+  padding: 5px;
+  text-align: left;
+  margin-right: 10px;
+  flex: 0 0 auto;
+  opacity: 0.5;
+}
+
+.DivTextoff h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+
+  color: #12153d;
+}

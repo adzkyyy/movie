@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Mission Imposible",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/ff/MI_%E2%80%93_Fallout.jpg",
+    "rating": 8.4,
+    "deskripsi": "Mission: Impossible adalah sebuah serial film-film thriller mata-mata aksi yang berdasarkan pada serial televisi dengan nama yang sama, yang diproduksi dan dibintangi oleh Tom Cruise sebagai agen IMF Ethan Hunt.",
+    "tanggalrilis": 2019
+  },
+  {
+    "id": 2,
+    "name": "Avanger EndGame",
+    "img": "https://cdn.cgv.id/uploads/movie/compressed/19022300.jpg",
+    "rating": 8.9,
+    "deskripsi": "Mission: Impossible adalah sebuah serial film-film thriller mata-mata aksi yang berdasarkan pada serial televisi dengan nama yang sama, yang diproduksi dan dibintangi oleh Tom Cruise sebagai agen IMF Ethan Hunt.",
+    "tanggalrilis": 2019
+  },
+  {
+    "id": 3,
+    "name": "La Casa De Papel",
+    "img": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1589513197/cpcsu51wqqbucm7oqozb.png",
+    "rating": 8.4,
+    "deskripsi": "Mission: Impossible adalah sebuah serial film-film thriller mata-mata aksi yang berdasarkan pada serial televisi dengan nama yang sama, yang diproduksi dan dibintangi oleh Tom Cruise sebagai agen IMF Ethan Hunt.",
+    "tanggalrilis": 2019
+  }
+]
